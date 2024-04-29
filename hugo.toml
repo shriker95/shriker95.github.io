@@ -1,0 +1,4 @@
+baseURL = 'https://www.shriker.dev'
+languageCode = 'de-de'
+title = 'My Website'
+theme = 'ananke'
